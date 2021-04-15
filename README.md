@@ -1,4 +1,4 @@
-![preview](https://raw.githubusercontent.com/rafaelhbarreto/whatsapp-clone/master/public/preview.JPG)
+![preview](https://raw.githubusercontent.com/rafaelhbarreto/whatsapp-clone/main/public/preview.PNG)
 
 ## Sobre
 
